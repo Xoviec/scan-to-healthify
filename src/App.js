@@ -1,6 +1,6 @@
 import './App.css';
 import DisplayForm from './components/DisplayForm';
-
+import React from 'react';
 const App = () => {
 
   return (
